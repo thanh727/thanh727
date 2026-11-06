@@ -24,38 +24,21 @@ I hold a PhD in molecular and cell biology. My background spans **structural bio
 - **Model** — Protein structure–function relationships, machine learning and biological interpretation.
 - **Translate** — Molecular diagnostics, vaccine-antigen discovery and scientific software.
 
-### ✨ Selected work
+### 🧬 Research interests
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/assay.svg" alt="AssayForge project" width="100%" />
-      <h3>AssayForge</h3>
-      A research software platform for literature-assisted assay discovery, primer/probe design and molecular assay workflows.
-      <br/><br/><strong>Topics:</strong> Molecular diagnostics · Bioinformatics · Web applications
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/genome.svg" alt="One Health Genomics project" width="100%" />
-      <h3>One Health Genomics</h3>
-      Integrating population genomics, protein biology and ML to investigate pathogen diversity, disease association and vaccine targets.
-      <br/><br/><strong>Topics:</strong> AMR · Zoonoses · Translational research
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/analytics.svg" alt="Data into Decisions" width="100%" />
-      <h3>Data into Decisions</h3>
-      Building reproducible workflows for microbiology, epidemiology, visualization and statistical analysis.
-      <br/><br/><strong>Topics:</strong> Python · Statistics · Applied AI
-    </td>
-    <td width="50%" valign="top">
-      <h3>📖 Genome Messages</h3>
-      <p>Sharing perspectives, methods and practical tutorials at the intersection of clinical biology, bioinformatics and data science.</p>
-      <p><strong>Explore:</strong> <a href="https://genomessages.com/">genomessages.com</a></p>
-      <p>Research is more useful when methods are documented, reusable and accessible.</p>
-    </td>
-  </tr>
-</table>
+My research sits at the intersection of experimental and computational biology:
+
+| Focus area | What I explore |
+| :--- | :--- |
+| **Genomics & One Health** | Pathogen population genomics, antimicrobial resistance and zoonotic infections |
+| **Protein biology & AI** | Protein structure–function relationships, sequence analysis and interpretable machine learning |
+| **Molecular diagnostics** | Assay development, scientific workflows and translational research |
+| **Data science** | Reproducible analysis, statistical modeling and epidemiological visualization |
+
+### 🌐 Public resources
+
+- **Website & writing:** [Genome Messages](https://genomessages.com/)
+- **Public GitHub repositories:** [Browse public repositories](https://github.com/thanh727?tab=repositories&type=public)
 
 ### 🧰 Research & engineering toolkit
 
