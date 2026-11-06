@@ -35,6 +35,21 @@ My research sits at the intersection of experimental and computational biology:
 | **Molecular diagnostics** | Assay development, scientific workflows and translational research |
 | **Data science** | Reproducible analysis, statistical modeling and epidemiological visualization |
 
+### 🚀 Featured public project — PyMOL AI Copilot
+
+**[PyMOL AI Copilot](https://github.com/thanh727/pymol_copilot)** is a **local-first AI assistant for PyMOL**, built to make molecular structure visualization and analysis more accessible through natural-language instructions.
+
+Developed for structural biologists, computational chemists and molecular researchers, it brings an agentic workflow directly into PyMOL rather than requiring users to manually compose every command.
+
+- **Natural-language control:** inspect, load and visualize protein structures using English or Vietnamese prompts.
+- **Structural analysis:** explore mutations, ligand-binding environments, residue contacts and structure alignments.
+- **Reproducible outputs:** create publication-ready views and export PyMOL scripts and session files.
+- **Local-first design:** integrate PyMOL with Ollama-powered language models, with validated tools and execution safeguards.
+
+**🤝 Contributors and collaborators welcome!** I'm looking to connect with structural biologists, PyMOL users, Python developers and AI/agent-tooling enthusiasts. Whether you want to test scientific workflows, report a bug, suggest a feature, improve documentation or contribute code, your input can help shape the project.
+
+**[Explore the project](https://github.com/thanh727/pymol_copilot)** · **[Suggest ideas / report issues](https://github.com/thanh727/pymol_copilot/issues)** · **[Contribute a pull request](https://github.com/thanh727/pymol_copilot/pulls)**
+
 ### 🌐 Public resources
 
 - **Website & writing:** [Genome Messages](https://genomessages.com/)
